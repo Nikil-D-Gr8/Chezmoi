@@ -22,6 +22,11 @@ if [ -d ~/.bashrc.d ]; then
         fi
     done
 fi
-alias cat='bat'
-fastfetch
 unset rc
+
+alias cat='bat'
+alias la='ls -a'
+alias ll='ls -alF'
+
+fastfetch
+
