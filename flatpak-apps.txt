@@ -5,7 +5,6 @@ com.github.tchx84.Flatseal
 com.mattjakeman.ExtensionManager
 com.obsproject.Studio
 com.todoist.Todoist
-com.vscodium.codium
 im.riot.Riot
 md.obsidian.Obsidian
 net.thunderbird.Thunderbird
