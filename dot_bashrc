@@ -30,3 +30,4 @@ alias ll='ls -alF'
 
 fastfetch
 
+export PATH="$HOME/.cargo/bin:$PATH"
