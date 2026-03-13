@@ -1,0 +1,14 @@
+com.bitwarden.desktop
+com.brave.Browser
+com.discordapp.Discord
+com.github.tchx84.Flatseal
+com.mattjakeman.ExtensionManager
+com.obsproject.Studio
+com.todoist.Todoist
+com.vscodium.codium
+im.riot.Riot
+md.obsidian.Obsidian
+net.thunderbird.Thunderbird
+org.ferdium.Ferdium
+org.qbittorrent.qBittorrent
+org.videolan.VLC
